@@ -1,0 +1,2 @@
+github-repo: https://github.com/selfmotivatednitish/react-assignment-8
+github-page: https://selfmotivatednitish.github.io/react-assignment-8/
