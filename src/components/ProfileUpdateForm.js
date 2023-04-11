@@ -48,6 +48,7 @@ export default class ProfileUpdateForm extends Component {
                     error
                 })
             })
+            alert("Form Submitted!!")
     }
 
     onChangeHandle = (event) => {
